@@ -12,3 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzunDemir&theme=dark&show_icons=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UzunDemir&theme=github_dark)
+
