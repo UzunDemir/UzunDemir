@@ -13,3 +13,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UzunDemir&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzunDemir&theme=github_dark)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+
