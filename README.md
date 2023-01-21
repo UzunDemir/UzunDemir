@@ -7,10 +7,6 @@
 
 ![](https://komarev.com/ghpvc/?username=UzunDemir)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzunDemir&&theme=dark&show_icons=truelayout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzunDemir&theme=dark&show_icons=true)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UzunDemir&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UzunDemir&theme=github_dark)
