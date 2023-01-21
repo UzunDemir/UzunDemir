@@ -11,4 +11,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzunDemir&theme=dark&show_icons=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=dark)
