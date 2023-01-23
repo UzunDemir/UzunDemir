@@ -11,7 +11,7 @@
 - 📫 How to reach me ...uzunvitt@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=UzunDemir) ![](https://img.shields.io/github/last-commit/UzunDemir/uzundemir.github.io)
+![](https://komarev.com/ghpvc/?username=UzunDemir) ![](https://img.shields.io/github/last-commit/UzunDemir/uzundemir.github.io) ![](https://img.shields.io/youtube/channel/views/UC-FrX7AP14q6LnWrl70L6ew?style=social)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=github_dark)
 
