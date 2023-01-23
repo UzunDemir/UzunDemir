@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+is+evolving+due+to+the+extinction+of+natural+intelligence...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+is+developing+due+to+the+extinction+of+HI)](https://git.io/typing-svg)
 
                                                                                          
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=of+natural+intelligence...)](https://git.io/typing-svg)
