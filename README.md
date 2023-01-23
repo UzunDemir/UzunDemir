@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Where+artificial+intelligence+dominates,+the+human+one+evaporates.+So,+thanks+to+modern+technology,+society+is+degrading!)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @UzunDemir
