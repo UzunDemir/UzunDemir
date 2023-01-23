@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Where+artificial+intelligence+dominates,+the+human+one+evaporates.+So,+thanks+to+modern+technology,+society+is+degrading!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+is+evolving+due+to+the+extinction+of+natural+intelligence...)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @UzunDemir
