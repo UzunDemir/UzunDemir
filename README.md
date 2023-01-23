@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...in fact, I have not yet decided in which direction to put my efforts. 
 - 📫 How to reach me ...uzunvitt@gmail.com
 
-![Image alt]({{ site.baseurl }}//images/1_GDFb9V5vnrkpm2hXVTMO2g.gif)
+![]({{ site.baseurl }}//images/1_GDFb9V5vnrkpm2hXVTMO2g.gif)
 
 
 ![](https://komarev.com/ghpvc/?username=UzunDemir)
