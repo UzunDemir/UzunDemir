@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+now+I+meet+more+often+than+HI...)](https://git.io/typing-svg)
 
-![2](https://user-images.githubusercontent.com/94790150/214231463-b9a0055a-991f-4a90-9f17-e3e35e1ed35a.gif)
+
                                                                                        
 ![Image alt](https://github.com/UzunDemir/UzunDemir/blob/main/images/1_GDFb9V5vnrkpm2hXVTMO2g.gif)
 
