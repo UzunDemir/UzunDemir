@@ -5,11 +5,11 @@
 ![Image alt](https://github.com/UzunDemir/UzunDemir/blob/main/images/1_GDFb9V5vnrkpm2hXVTMO2g.gif)
 
 
-- 👋 Hi, I’m @UzunDemir
-- 👀 I’m interested in machine learning and data science...
-- 🌱 I’m currently learning python and taking a machine learning course in Skillbox
-- 💞️ I’m looking to collaborate on ...in fact, I have not yet decided in which direction to put my efforts. 
-- 📫 How to reach me ...uzunvitt@gmail.com
+👋 Hi, I’m @UzunDemir
+👀 Machine learning engineer passionate about data science and AI agents
+🌱 Continuously learning and growing — currently diving deeper into Python and advanced ML
+💞️ Open to collaborations and new challenges in AI and ML
+📫 How to reach me: [your email or socials]
 
 
 ![](https://komarev.com/ghpvc/?username=UzunDemir) ![](https://img.shields.io/github/last-commit/UzunDemir/uzundemir.github.io) ![](https://img.shields.io/youtube/channel/views/UC-FrX7AP14q6LnWrl70L6ew?style=social) 
