@@ -9,7 +9,7 @@
 - 👀 AI & ML Engineer | Data Analytics | Model Optimization | AI agents
 - 🌱 Continuously learning and growing — currently diving deeper into Python and advanced ML
 - 💞️ Open to collaborations and new challenges in AI and ML
-- 📫 How to reach me: [uzunvitt@gmail.com]
+- 📫 How to reach me: uzunvitt@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=UzunDemir) ![](https://img.shields.io/github/last-commit/UzunDemir/uzundemir.github.io) ![](https://img.shields.io/youtube/channel/views/UC-FrX7AP14q6LnWrl70L6ew?style=social) 
